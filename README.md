@@ -698,6 +698,7 @@ AdView has integrated various ad netwroks (InMobi, AdMob, etc..,) where you are 
 ![Inmobi 0](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi%20in%20Dashboard.png)
 
 2.In this example we will be adding InMobi as the custom Ad Netwrok, select InMobi in the popup and click on "Add" button, this will redirect you to the AdView dashboard --> here turn on the switch again InMobi give the **priority(%)** of your choice then click on "not set" in InMobi row you will get  "Configure InMobi" popup with Signup link at the bottom which will redirect you to the below login page, complete the login procedure
+![Inmobi 22](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi%20configure%20dialg.png)
 
  ![Inmobi 1](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi%201.png)
 
