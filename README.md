@@ -656,16 +656,6 @@ After you implement this listener you will get the following methods.
 
 You can refer to the code of AdVideoActivity in AdView Demo Project.
 
-##XII. Adding custom ad network
-![Inmobi 1](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi%201.png)
-![Inmobi 2](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi2.jpg)
-![Inmobi 3](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi3.jpg)
-![Inmobi 4](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi4.jpg)
-![Inmobi 5](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi5.jpg)
-
-
-
-
 
 ##XI. Adding Proguard-rules 
 
@@ -694,6 +684,20 @@ For example In case of InMobi add the below lines of code to the proguard-rules.
 	-dontwarn com.inmobi.**
 
 ```
+
+
+##XII. Adding custom ad network
+
+AdView has integrated various ad netwroks (InMobi, AdMob, etc..,) where you are given flexibility to add the ad netwrok of your chooice and prorotize accordingly, there are varioud advantages of integrating many ad networks to monetize your app some them imcclude
+--> Good fill rates - we suggest to include on an avrage of 3 ad netwroks for good fill rates
+--> More revenue
+--> You can prioritize according to the ad platform performance
+![Inmobi 0](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi%20in%20Dashboard.png)
+![Inmobi 1](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi%201.png)
+![Inmobi 2](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi2.jpg)
+![Inmobi 3](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi3.jpg)
+![Inmobi 4](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi4.jpg)
+![Inmobi 5](https://raw.githubusercontent.com/vinith-cit/Images-for-github/master/inmobi5.jpg)
 
 ##XII. Add custom ad platform
 
